@@ -65,4 +65,3 @@ ts.isort <file-or-directory>
 ```bash
 ts.clean <directory>
 ```
-
